@@ -1,0 +1,4 @@
+Student Name: John Doe, ID: 12345, Notes: 85, 90, 92, Average Note: 89
+Student Name: Jane Smith, ID: 67890, Notes: 78, 80, 85, 88, Average Note: 82.75
+Student Name: Alice Johnson, ID: 54321, Notes: 95, 92, 91, Average Note: 92.6667
+Student Name: Bob Brown, ID: 98765, Notes: 82, 75, 80, 85, Average Note: 80.5
