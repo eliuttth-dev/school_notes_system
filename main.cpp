@@ -1,19 +1,17 @@
 #include <iostream>
 #include <fstream>
-#include <sstream> // For stringstream
+#include <sstream>
 #include <string>
 #include <vector>
 
 using namespace std;
 
-// Define Student class
 class Student {
 private:
     string name;
     int id;
-    vector<int> notes; // Assuming notes are integers for simplicity
+    vector<int> notes;
 public:
-    // Constructor
     Student(string n, int i) : name(n), id(i) {}
 
     // Functions to get/set student information
